@@ -4,7 +4,7 @@ Simple Python assignments to learn Object-Oriented Programming (OOP) concepts.
 
 ## Assignment 1: Simple Smartphone Class 📱
 
-**File:** `assignment_1_smartphone_simple.py`
+**File:** `assignment_1_smartphone_class.py`
 
 ### What You'll Learn:
 
@@ -22,12 +22,12 @@ Simple Python assignments to learn Object-Oriented Programming (OOP) concepts.
 ### How to Run:
 
 ```bash
-python assignment_1_smartphone_simple.py
+python assignment_1_smartphone_class.py
 ```
 
 ## Assignment 2: Simple Polymorphism 🎭
 
-**File:** `assignment_2_polymorphism_simple.py`
+**File:** `assignment_2_polymorphism_challenge.py`
 
 ### What You'll Learn:
 
@@ -52,7 +52,7 @@ python assignment_1_smartphone_simple.py
 ### How to Run:
 
 ```bash
-python assignment_2_polymorphism_simple.py
+python assignment_2_polymorphism_challenge.py
 ```
 
 ## Key Concepts Learned ✅
@@ -101,8 +101,8 @@ python assignment_2_polymorphism_simple.py
 2. Download the files
 3. Run the assignments:
    ```bash
-   python assignment_1_smartphone_simple.py
-   python assignment_2_polymorphism_simple.py
+   python assignment_1_smartphone_class.py
+   python assignment_2_polymorphism_challenge.py
    ```
 
 ## What's Next?
