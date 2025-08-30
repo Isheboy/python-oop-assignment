@@ -105,13 +105,4 @@ python assignment_2_polymorphism_challenge.py
    python assignment_2_polymorphism_challenge.py
    ```
 
-## What's Next?
-
-After mastering these basics, you can:
-
-- Add more methods to the classes
-- Create more child classes
-- Add private attributes (using `__` prefix)
-- Try creating your own classes for books, cars, or games!
-
 Happy coding! 🚀
