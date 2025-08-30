@@ -1,4 +1,4 @@
-# Python OOP Assignments for Beginners 🐍
+# Python OOP Assignments 🐍
 
 Simple Python assignments to learn Object-Oriented Programming (OOP) concepts.
 
